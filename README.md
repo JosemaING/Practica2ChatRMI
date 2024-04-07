@@ -1,10 +1,4 @@
 --------------------------------------------------------------------------------
-                                   README.TXT
---------------------------------------------------------------------------------
-
-                                CHAT RMI EN JAVA
-
---------------------------------------------------------------------------------
 AUTOR:
 --------------------------------------------------------------------------------
 
@@ -54,13 +48,13 @@ Para la puesta a punto del servidor:
 Utilice los siguientes comandos en la terminal dentro del directorio del proyecto:
 
 - REALIZAR REGISTRO
-registro.bat
+ `registro.bat`
 
 - INICIAR SERVIDOR
-servidor.bat
+ `servidor.bat`
 
 - CONECTAR CLIENTE
-cliente.bat Usuario
+ `cliente.bat Usuario`
 
 --------------------------------------------------------------------------------
 COMANDOS:
